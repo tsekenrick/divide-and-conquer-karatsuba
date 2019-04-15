@@ -8,13 +8,15 @@ Help the Professor work out the simulation so he can start smelling the universe
 
 The first line of the input is ***n***, the degree of the two following polynomials.
 
-The second line of the input consists of ***n+1*** space separated integers ***a[0],...,a[n], where ***a[i]*** is the coefficient of ***x^i***.
+The second line of the input consists of ***n+1*** space separated integers ***a[0], ... ,a[n]***, where ***a[i]*** is the coefficient of ***x^i***.
 
-The third line consists of ***b[0],...,b[n]***, similar to above.
+The third line consists of ***b[0], ... ,b[n]***, similar to above.
 
 ### Constraints
 
-***n+1 = 2^k, 2 <= k <= 16***.
+***n+1 = 2^k***
+
+***2 <= k <= 16***.
 
 ***0 <= a[i],b[i] <=9***
 
